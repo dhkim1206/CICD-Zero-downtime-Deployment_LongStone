@@ -1,3 +1,7 @@
+# Architecture
+![image](https://github.com/dhkim1206/Longstone/assets/69470424/d43d5b27-fa96-43d2-8769-19ee18d1221e)
+
+
 # Features
 
 -   [Link](#link)
